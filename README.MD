@@ -61,6 +61,10 @@ The dataset contains information related to:
 
 # 📌 Dashboard 1 — Executive Overview
 
+
+![Executive Overview](Dashboard/Dashboard-1-Executive-Overview.png)
+
+
 ### Purpose
 
 The **Executive Overview** provides a high-level snapshot of the banking portfolio and allows users to quickly understand customer scale, financial position, lending activity, transaction value, and credit quality.
@@ -106,6 +110,10 @@ Provides a detailed comparison of customers, balances, loan amounts, and average
 ---
 
 # 🔎 Dashboard 2 — Customer & Risk Analysis
+
+
+![Customer & Risk Analysis](Dashboard/Dashboard-2-Customer-Risk.png)
+
 
 ### Purpose
 
